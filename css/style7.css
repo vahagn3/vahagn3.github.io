@@ -1,0 +1,328 @@
+* {
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+}
+.nav-block{
+    background-color:rgb(35, 37, 54);
+    display: flex;
+    flex-direction: row;
+}
+.logo{
+    margin: 25px 621.25px 26.73px 83px;
+}
+.header{
+    background-color: #F4F0F8;
+    padding-bottom: 4px;
+}
+.container1{
+    display: flex;
+    flex-direction: column;
+}
+.nav-bar{
+    display: flex;
+    flex-direction: row;
+    margin: 26px 32px 26px 0px;
+}
+#x0{
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: left;
+    text-decoration-line: none;
+    
+}
+#x1{
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: left;
+    margin: 0px 24px;
+    text-decoration-line: none;
+}
+#x2{
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: left;
+    text-decoration-line: none;
+    margin-right: 24px;
+}
+#x3{
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: left;
+    text-decoration-line :none ;
+    
+}
+#x4{
+    background-color: white;
+    color: rgb(35, 37, 54);
+    font-family: Sen;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: left;
+    padding: 16px 48px 16px 48px;
+    text-decoration-line: none;
+    margin: 12px 0px 12px 32px;
+    
+}
+.img-block{
+    background-image: url('../image/image1.png') ,
+    url('../image/Overlay.png');
+    background-blend-mode: multiply;
+    background-size: 100% 100% ;
+    background-repeat: no-repeat;
+    margin: auto;
+    padding-top: 128px;
+    padding-bottom: 192px ;
+    padding-left: 80px;
+}
+.header h1{
+    color: rgb(35, 37, 54);
+    font-family: Sen;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 64px;
+    letter-spacing: -2px;
+    text-align: center;
+    margin: 80px auto 4px ; 
+}
+.p1{
+    color: rgb(35, 37, 54);
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: center;
+    margin: 0px auto 80px;
+}
+.container1{
+    max-width: 768px;
+    margin: 128px auto;
+}
+.p2{
+    color: rgb(35, 37, 54);
+    font-family: Sen;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 64px;
+    letter-spacing: -2px;
+    text-align: left;
+    margin: 0px auto 32px;
+}
+.p3{
+    color: rgb(76, 76, 76);
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+.p4{
+    color: rgb(35, 37, 54);
+    font-family: Sen;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: -2px;
+    text-align: left;
+    margin: 32px auto 24px;
+}
+.p5{
+    color: rgb(76, 76, 76);
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+.p6{
+    color: rgb(76, 76, 76);
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: left;
+    margin-top: 24px;
+    
+}
+.Logo{
+    position: relative;
+    width: 140px;
+    height: 28.35px;
+    margin: 2px 703px 54.65px 3px;
+}
+.N-block{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.footer-block{
+    margin-top: 128px;
+    background-color:  rgb(35, 37, 54);
+}
+.container5{
+    max-width: 1280px;
+    margin: auto ;
+    padding: 59px 0 56px;
+}
+#a1{
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: left;
+    text-decoration-line: none;
+}
+#a2{
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: left;
+    text-decoration-line: none; 
+    margin-left: 24px;
+}
+#a3{
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: left;
+    text-decoration-line: none;
+    margin-left: 24px;
+}
+#a4{
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: left; 
+    text-decoration-line: none;
+    margin-left: 24px;
+    margin-right: 24px;
+}
+#a5{
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: left;
+    text-decoration-line: none;
+}
+.block8{
+    background-color: rgba(255, 255, 255, 0.05);
+    margin: 0px auto 48px;
+}
+.block8-1{
+    
+    display: flex;
+    flex-direction: row;
+}
+.p30{
+    color: rgb(255, 255, 255);
+    font-family: Sen;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: -2px;
+    text-align: left;
+    margin: 80px 64px;
+    max-width: 562px;
+   }
+.email{
+    background-color: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgb(76, 76, 76);
+    padding: 14px 162.77px 14px 24.92px ;
+    margin: 84px 24px 116px 0px;
+
+   }
+::placeholder{
+    color: rgb(109, 110, 118);
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: left;
+   }
+   .block-sub{
+        padding: 16px 48px;
+        background: rgb(255, 208, 80);
+        color: rgb(35, 37, 54);
+        font-family: Sen;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 24px;
+        letter-spacing: 0px;
+        text-align: left;
+        text-decoration-line: none;
+        margin: 84px 64px 116px 0px;
+        border: 1px solid  rgb(255, 208, 80);;
+   }
+   .p31{
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: left;
+    
+   }
+   address{
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: left;
+    display: inline-block;
+   }
+   .soc-block{
+    max-width: 144px;
+    float: right;
+   }
+   .Fc{
+    text-decoration-line: none;
+   }
+   .Tw{
+    margin: 0px 23px;
+    text-decoration-line: none;
+   }
+   .In{
+    margin-right: 22px;
+    text-decoration-line: none;
+   }
+
